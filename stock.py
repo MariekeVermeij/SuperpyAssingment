@@ -231,9 +231,3 @@ if __name__ == '__main__':
 
 
 
-
-
-    #het idee is nu om een purchase file te maken. 
-    #er is ook een sales file, maar die moet nog checken in de stock file of het product ook beschikbaar is 
-    #in de stock file moeten de lijnen komen die nog niet toegevoegd zijn uit de purchase file. Daarvoor nu een verschil check gemaakt in stock.py. ALs deze voorkomt in de purchase file dan moeten de data daarvan overgenomen worden. 
-    #Daarna kan de sales file aangevuld worden met de check of het beschikbaar is. En die moet dan ook meteen de stock file updaten op de al bestaande regels
