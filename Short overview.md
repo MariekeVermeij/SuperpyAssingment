@@ -1,6 +1,8 @@
-In this Superpy program there are five python files. 
+In this Superpy program there are six python files. 
 
 Set_dte.py with the dates of today and yesterday.
+
+Change_today with the input of the entry boxes to advance the time. 
 
 In main.py you can find the sub parsers for the sales and purchasing data. 
 For purchasing it will create new lines in a csv file with the entered data, a purchase id from purchase_id_count() and the entered date. 
